@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Aman Srivastava</h2>
 <p align="center">
-  <b>AI / ML • Data Science • Computer Science</b>
+  <b>AI & Data Science Engineer</b>
 </p>
 
 <p align="center">
@@ -9,10 +9,9 @@
 
 ---
 
-- 🎓 B.Tech CSE + B.S. Data Science (IIT Delhi & IIT Madras)
-- 🤖 AI/ML Intern | NLP • LLMs • Computer Vision
-
-- 📫 **amansri345@gmail.com**
+- 🤝 Open to collaborating on **AI / ML / Data Science projects**
+- 💬 Ask me about **projects, ML pipelines, and system design**
+- 📫 Reach me at **amansri345@gmail.com**
 
 ---
 
