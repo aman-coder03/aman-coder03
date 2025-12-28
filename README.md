@@ -17,7 +17,7 @@
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,js,pytorch,tensorflow,postgres,mongodb,streamlit,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,solidity,sql,js,pytorch,tensorflow,postgres,mongodb,streamlit,git,linux" />
 </p>
 
 ---
