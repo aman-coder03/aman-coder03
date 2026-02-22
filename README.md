@@ -17,6 +17,7 @@ Merged contributions to:
 - **pvlib-python**
 - **MNE-Python**
 - **Open-MSS**
+- **dipy**
  
 ---
 
