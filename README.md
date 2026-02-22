@@ -9,6 +9,12 @@
 
 ---
 
+🌍 Open Source Contributor to:
+- AiiDA Core  
+- pvlib-python  
+- MNE-Python  
+- Open-MSS  
+
 - 🤝 Open to collaborating on **AI / ML / Data Science projects**
 - 💬 Ask me about **projects, ML pipelines, and system design**
 - 📫 Reach me at **amansri345@gmail.com**
