@@ -14,11 +14,11 @@
 Merged contributions to:
 
 - **AiiDA Core**
+- **dipy**
 - **pvlib-python**
 - **MNE-Python**
 - **Open-MSS**
-- **dipy**
- 
+
 ---
 
 ### 💬 Let’s Connect
