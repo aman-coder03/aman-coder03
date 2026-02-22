@@ -63,8 +63,9 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-activity-graph.vercel.app/graph?username=aman-coder03&theme=github-dark&hide_border=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aman-coder03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-coder03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=aman-coder03&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-coder03&theme=dark&hide_border=true&layout=compact)
 
 ---
