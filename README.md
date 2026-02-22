@@ -64,8 +64,8 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aman-coder03&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=aman-coder03&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-coder03&theme=dark&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-coder03&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 
 ---
