@@ -9,11 +9,18 @@
 
 ---
 
-🌍 Open Source Contributor to:
-- AiiDA Core  
-- pvlib-python  
-- MNE-Python  
-- Open-MSS  
+### 🌍 Open Source Contributor
+
+Merged contributions to:
+
+- **AiiDA Core**
+- **pvlib-python**
+- **MNE-Python**
+- **Open-MSS**
+ 
+---
+
+### 💬 Let’s Connect
 
 - 🤝 Open to collaborating on **AI / ML / Data Science projects**
 - 💬 Ask me about **projects, ML pipelines, and system design**
