@@ -13,11 +13,12 @@
 
 Merged contributions to:
 
-- **AiiDA Core**
-- **dipy**
-- **pvlib-python**
-- **MNE-Python**
-- **Open-MSS**
+- **aiida-core (aiidateam/aiida-core)**
+- **dipy (dipy/dipy)**
+- **holidays (vacanza/holidays)**
+- **pvlib-python (pvlib/pvlib-python)**
+- **mne-python (mne-tools/mne-python)**
+- **MSS (Open-MSS/MSS)**
 
 ---
 
