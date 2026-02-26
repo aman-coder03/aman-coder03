@@ -25,7 +25,7 @@ Merged contributions to:
 ### 💬 Let’s Connect
 
 - 🤝 Open to collaborating on **AI / ML / Data Science projects**
-- 💬 Ask me about **projects, ML pipelines, and system design**
+- 💬 Ask me about **Projects, ML Pipelines, and System Design**
 - 📫 Reach me at **amansri345@gmail.com**
 
 ---
