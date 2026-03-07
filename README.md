@@ -14,7 +14,7 @@
 Merged contributions to:
 
 - **[AiiDA Core (aiidateam/aiida-core)](https://github.com/aiidateam/aiida-core)**
-- **[causalml - Causal ML Library (uber/causalml)](https://github.com/uber/causalml)**
+- **[Causal ML (uber/causalml)](https://github.com/uber/causalml)**
 - **[DIPY - Diffusion Imaging in Python (dipy/dipy)](https://github.com/dipy/dipy)**
 - **[Holidays - Python Holiday Library (vacanza/holidays)](https://github.com/vacanza/holidays)**
 - **[pvlib-Python - Photovoltaic Modeling Library (pvlib/pvlib-python)](https://github.com/pvlib/pvlib-python)**
