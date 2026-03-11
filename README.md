@@ -14,12 +14,14 @@
 Merged contributions to:
 
 - **[AiiDA Core (aiidateam/aiida-core)](https://github.com/aiidateam/aiida-core)**
+- **[Braindecode (braindecode/braindecode)](https://github.com/braindecode/braindecode)**
 - **[Causal ML (uber/causalml)](https://github.com/uber/causalml)**
 - **[DIPY - Diffusion Imaging in Python (dipy/dipy)](https://github.com/dipy/dipy)**
 - **[Holidays - Python Holiday Library (vacanza/holidays)](https://github.com/vacanza/holidays)**
-- **[pvlib-Python - Photovoltaic Modeling Library (pvlib/pvlib-python)](https://github.com/pvlib/pvlib-python)**
+- **[Matplotlib (matplotlib/matplotlib)](https://github.com/matplotlib/matplotlib)**
 - **[MNE-Python - Neurophysiology Analysis Library (mne-tools/mne-python)](https://github.com/mne-tools/mne-python)**
 - **[MSS - Mission Support System (Open-MSS/MSS)](https://github.com/Open-MSS/MSS)**
+- **[pvlib-Python - Photovoltaic Modeling Library (pvlib/pvlib-python)](https://github.com/pvlib/pvlib-python)**
 
 ---
 
