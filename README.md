@@ -68,7 +68,7 @@ Merged contributions to:
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect
 <p>
   <a href="https://linkedin.com/in/aman-srivastava03">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
