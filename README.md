@@ -16,6 +16,7 @@ Merged contributions to:
 - **[AiiDA Core (aiidateam/aiida-core)](https://github.com/aiidateam/aiida-core)**
 - **[Braindecode (braindecode/braindecode)](https://github.com/braindecode/braindecode)**
 - **[Causal ML (uber/causalml)](https://github.com/uber/causalml)**
+- **[conda-smithy (conda-forge/conda-smithy)](https://github.com/conda-forge/conda-smithy)**
 - **[DIPY - Diffusion Imaging in Python (dipy/dipy)](https://github.com/dipy/dipy)**
 - **[Holidays - Python Holiday Library (vacanza/holidays)](https://github.com/vacanza/holidays)**
 - **[Matplotlib (matplotlib/matplotlib)](https://github.com/matplotlib/matplotlib)**
