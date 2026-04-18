@@ -23,6 +23,7 @@ Merged contributions to:
 - **[MNE-Python - Neurophysiology Analysis Library (mne-tools/mne-python)](https://github.com/mne-tools/mne-python)**
 - **[MSS - Mission Support System (Open-MSS/MSS)](https://github.com/Open-MSS/MSS)**
 - **[pvlib-Python - Photovoltaic Modeling Library (pvlib/pvlib-python)](https://github.com/pvlib/pvlib-python)**
+- **[toqito - Quantum Information Theory Library (vprusso/toqito)](https://github.com/vprusso/toqito)**
 
 ---
 
